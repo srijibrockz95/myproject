@@ -1,0 +1,7 @@
+com\mycompany\myproject\RESTAuthenticationFailureHandler.class
+com\mycompany\myproject\ApplicationSecurity.class
+com\mycompany\myproject\HelloweenWebService.class
+com\mycompany\myproject\HelloweenWebService$HelloweenResponse.class
+com\mycompany\myproject\Application.class
+com\mycompany\myproject\RESTAuthenticationEntryPoint.class
+com\mycompany\myproject\RESTAuthenticationSuccessHandler.class
